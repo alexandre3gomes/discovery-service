@@ -1,0 +1,4 @@
+[submodule "devops-utils"]
+	path = devops-utils
+	url = git@github.com:alexandre3gomes/devops-utils.git
+	branch = main
